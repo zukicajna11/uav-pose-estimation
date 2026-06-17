@@ -26,8 +26,7 @@ The goal of this project is to provide a lightweight, infrastructure-independent
 To run the pose estimator on a video stream:
 ```bash
 python evaluate_dlt.py --video your_video.avi --kalman
-
-
+```
 ## Authors
 - **Adnan Hajrić**
 - **Ajna Zukić**
