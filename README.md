@@ -27,6 +27,11 @@ To run the pose estimator on a video stream:
 ```bash
 python evaluate_dlt.py --video your_video.avi --kalman
 ```
+
+## Supplementary Material
+The full project dataset, including original ROS bags, raw video recordings, and large calibration files, is available at the following link:
+- [Download Full Project Data (ZIP)](https://drive.google.com/file/d/14VQOIujxD2esRblI7xrxZO6uKa480Wva/view?usp=sharing)
+- 
 ## Authors
 - **Adnan Hajrić**
 - **Ajna Zukić**
